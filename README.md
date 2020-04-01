@@ -2,7 +2,7 @@
 
 <h5 align="left">
 <p>Creation of a model to predict the math test score of ENEM participants in 2016.</p>
-<p>Model accuracy: 93.81%</p>
+<p>Score: 93.81%</p>
 </h5>
 
  <br />
